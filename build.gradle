@@ -1,0 +1,3 @@
+plugins {
+    id 'com.ibm.zosconnect.requester' version '1.0.1'
+}
